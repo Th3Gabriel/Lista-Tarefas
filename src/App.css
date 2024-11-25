@@ -84,6 +84,7 @@ button:hover {
 ol {
   list-style-type: none;
   padding: 0;
+  color: black;
 }
 
 li {
